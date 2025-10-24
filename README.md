@@ -1,4 +1,6 @@
-## Hi there 👋
+i know very much little pro max python
+knows html and cpp om level one
+knows sql lvl 0.1
 
 <!--
 **Suni-maman/Suni-maman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
